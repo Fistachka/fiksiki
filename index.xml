@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fiksiki</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
-    <ru>ea7641ce5b8221200f581c09e0ddc9f20264b504b1c32f91f6bae981685ef2ad</ru>
-    <en>ea7641ce5b8221200f581c09e0ddc9f20264b504b1c32f91f6bae981685ef2ad</en>
+    <ru>465040ab5b2226843d27cee8acf035dbdb50110b556fe0c6a02f4359ef8b0ff8</ru>
+    <en>465040ab5b2226843d27cee8acf035dbdb50110b556fe0c6a02f4359ef8b0ff8</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
