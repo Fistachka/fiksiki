@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fiksiki</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <ru>465040ab5b2226843d27cee8acf035dbdb50110b556fe0c6a02f4359ef8b0ff8</ru>
@@ -79,12 +79,10 @@
     <video name="5t.mp4" size="877674" type="video/mp4" volume="0.5">527a0c2094707008e082faedfae4e1d5e472cab6e86fd0a2dc4d7aab14dd2035</video>
     <notes>
       <note number="1" values="58" ticks="24" durationTicks="49" ppq="96" velocity="0.843"/>
-      <note number="2" values="68" ticks="72" durationTicks="23" ppq="96" velocity="0.913"/>
-      <note number="3" values="78" ticks="119" durationTicks="24" ppq="96" velocity="0.874"/>
-      <note number="4" values="188" ticks="168" durationTicks="23" ppq="96" velocity="0.921"/>
+      <note number="2" values="68" ticks="72" durationTicks="45" ppq="96" velocity="0.913"/>
+      <note number="3" values="78" ticks="119" durationTicks="45" ppq="96" velocity="0.874"/>
+      <note number="4" values="188" ticks="168" durationTicks="43" ppq="96" velocity="0.921"/>
       <note number="5" values="68" ticks="215" durationTicks="41" ppq="96" velocity="0.921"/>
-      <note number="6" values="38" ticks="392" durationTicks="107" ppq="192" velocity="0.724"/>
-      <note number="7" values="18" ticks="420" durationTicks="20" ppq="192" velocity="0.839"/>
     </notes>
   </exercise>
   <exercise number="6">
