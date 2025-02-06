@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fiksiki</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <ru>465040ab5b2226843d27cee8acf035dbdb50110b556fe0c6a02f4359ef8b0ff8</ru>
@@ -10,19 +10,19 @@
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
-    <scale>major</scale>
+    <scale>chromaticmajor</scale>
     <bpm>108</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>1</tonalities>
     <video name="1t.mp4" size="832057" type="video/mp4" volume="0.5">b363b7211101e0dcae468481b4a657fcb2b36f4e74092a751b15c8ddb529df24</video>
     <notes>
-      <note number="1" values="58" ticks="48" durationTicks="42" ppq="96" velocity="0.799"/>
-      <note number="2" values="68" ticks="94" durationTicks="47" ppq="96" velocity="0.884"/>
-      <note number="3" values="68" ticks="143" durationTicks="48" ppq="96" velocity="0.787"/>
-      <note number="4" values="188" ticks="190" durationTicks="46" ppq="96" velocity="0.847"/>
-      <note number="5" values="68" ticks="237" durationTicks="43" ppq="96" velocity="0.742"/>
-      <note number="6" values="58" ticks="285" durationTicks="50" ppq="96" velocity="0.872"/>
-      <note number="7" values="48" ticks="334" durationTicks="47" ppq="96" velocity="0.774"/>
+      <note number="1" values="18" ticks="48" durationTicks="42" ppq="96" velocity="0.799"/>
+      <note number="2" values="38" ticks="96" durationTicks="45" ppq="96" velocity="0.884"/>
+      <note number="3" values="58" ticks="144" durationTicks="47" ppq="96" velocity="0.787"/>
+      <note number="4" values="68" ticks="192" durationTicks="44" ppq="96" velocity="0.847"/>
+      <note number="5" values="978" ticks="240" durationTicks="48" ppq="96" velocity="0.742"/>
+      <note number="6" values="68" ticks="289" durationTicks="46" ppq="96" velocity="0.872"/>
+      <note number="7" values="58" ticks="326" durationTicks="45" ppq="96" velocity="0.774"/>
     </notes>
   </exercise>
   <exercise number="2">
