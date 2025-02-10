@@ -2,8 +2,8 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fiksiki</repo>
-  <version>v1.0.23</version>
-  <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
+  <version>v1.0.24</version>
+  <next number="1" owner="Fistachka" repo="fiksikidva"/>
   <readme>
     <ru>635b5bf32b57f66c375ac25426af366dd44be60f33230b12e16bda383cfe77ce</ru>
     <en>c5398ae047d389c2839443f15939260c34815e1049e2039d47b6b0b80ed50c62</en>
@@ -14,7 +14,7 @@
     <bpm>108</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>1</tonalities>
-    <video name="1t.mp4" size="832057" type="video/mp4" volume="0.5">b363b7211101e0dcae468481b4a657fcb2b36f4e74092a751b15c8ddb529df24</video>
+    <video name="1t.mp4" size="832057" type="video/mp4" volume="0.5">25ee797f9b0917c58986cfaa24149064922e82f31f68b75ca879ee61ad458625</video>
     <notes>
       <note number="1" values="18" ticks="48" durationTicks="42" ppq="96" velocity="0.799"/>
       <note number="2" values="38" ticks="96" durationTicks="45" ppq="96" velocity="0.884"/>
